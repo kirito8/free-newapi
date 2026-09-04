@@ -2,6 +2,7 @@
 
 > 一份持续维护的「免费 / 公益 AI 大模型 API 中转站与免费额度平台」清单。
 > 收录社区公益中转站、官方免费额度平台，以及可自建中转站的开源工具。
+> 如果觉得好用，还请麻烦点个免费的小星星⭐哦~。
 
 [![License](https://img.shields.io/github/license/kirito8/free-newapi)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/kirito8/free-newapi?style=social)](https://github.com/kirito8/free-newapi)
@@ -11,17 +12,16 @@
 ## ⚠️ 免责声明（务必先读）
 
 1. **免费额度随时变化**：本清单中的额度、价格、可用性均以各站点实时页面为准，可能在数天内失效或调整。
-2. **公益站 / 中转站存在风险**：社区维护的中转站普遍存在「掺水」「跑路」「降级」风险，**请勿传入个人隐私、客户数据或敏感内容**，更不要绑定主账号、不要充值大额资金。
-3. **优先选择有官方背书的渠道**：稳定性排序大致为「官方免费额度 > 知名开源聚合工具 > 社区公益中转站」。
-4. **本清单仅供学习、研究与个人实验用途**，使用过程中请遵守各平台服务条款与当地法律法规。
+2. **公益站 / 中转站存在风险**：社区维护的中转站可能存在「掺水」「跑路」「降级」风险，**请勿传入个人隐私、客户数据或敏感内容**，更不要绑定主账号、不要充值大额资金。
+3. **本清单仅供学习、研究与个人实验用途**，使用过程中请遵守各平台服务条款与当地法律法规。
 
-> 📅 本清单核验时间：**2026-09-04**。欢迎提 Issue / PR 更新失效信息。
+> 📅 本清单核验时间：**2026-09-04**。欢迎提 Issue / PR 更新失效信息。也欢迎提供未收录的公益站点~
 
 ---
 
 ## 目录
 
-- [一、社区公益中转站](#一社区公益中转站)
+- [一、公益中转站](#一公益中转站)
 - [二、官方免费额度平台（最稳定）](#二官方免费额度平台最稳定)
 - [三、开源聚合 / 自建中转工具](#三开源聚合--自建中转工具)
 - [四、快速接入（OpenAI 兼容格式）](#四快速接入openai-兼容格式)
@@ -30,29 +30,24 @@
 
 ---
 
-## 一、社区公益中转站
+## 一、公益中转站
 
-> 社区维护、注册即配发免费额度。**风险较高，仅建议测试用**。
 
-| 名称 | 地址 | 免费额度（示例） | 覆盖模型 | 备注 |
+| 名称 | 地址 | 免费额度 | 覆盖模型 | 备注 |
 | --- | --- | --- | --- | --- |
-| 幻城网安公益 API | `https://api.iamhc.cn` | 完全免费 | 195+ 模型（千问 / DeepSeek / GLM / Kimi / 豆包等） | 支持 `auto` 自动路由模型 |
-| 路由公园 RouterPark | `https://routerpark.com` | 新用户注册赠 $100 | Claude / GPT / Gemini 等 30+ 模型 | 支持 Google/GitHub 一键注册 |
-| MegaLLM | `https://megallm.io` | 邀请注册赠 $125 | Claude Sonnet / Codex 等 | 仅支持 Google 账号注册 |
-| DMXAPI | LangChain 中文网 | 22+ 款全免费模型 | 300+ 模型聚合 | OpenAI 兼容 |
-| aiping.cn | `https://aiping.cn` | 轻量试用额度 | MiniMax / GLM 等 | 适合短期体验 |
+| Any Router | `https://anyrouter.top/register?aff=pG9m` | 完全免费，新用户注册赠 $100，签到送 $25 | 10+ 模型（主要为Claude） | Linux Do信任等级需≥2方可注册 |
+| Agent Router | `https://agentrouter.org/register?aff=jnrM` | 完全免费，新用户注册赠 $100，签到送 $25 | Claude / GPT / Glm / Deepseek | github注册满5年可注册 |
+| 维云模型开放平台 | `https://vsllm.cc/i/z2IN` | 每日任务获取免费额度 | Claude / GPT / Glm / Deepseek 等69个模型 | 注册无限制 |
 
-> 💡 上述站点信息来自公开资料整理，请以站点实际页面为准，注册前自行甄别。
 
 ---
 
-## 二、官方免费额度平台（最稳定）
+## 二、官方免费额度平台
 
-> 有官方背书，免费额度相对长期、稳定，**日常开发首选**。
 
 ### 国内平台
 
-| 平台 | 地址 | 免费额度（示例） | 亮点 |
+| 平台 | 地址 | 免费额度 | 亮点 |
 | --- | --- | --- | --- |
 | 智谱 BigModel | `https://open.bigmodel.cn` | GLM-4-Flash **永久免费**（30 并发） | 中文代码能力强 |
 | 美团 LongCat | 美团 AI 开放平台 | Chat 系列 500 万 Token/天 | 额度按天刷新 |
@@ -67,9 +62,9 @@
 
 ### 海外平台
 
-| 平台 | 地址 | 免费额度（示例） | 亮点 |
+| 平台 | 地址 | 免费额度 | 亮点 |
 | --- | --- | --- | --- |
-| Google Gemini AI Studio | `https://aistudio.google.com` | Gemini 2.5 Flash 免费层 | 免费额度慷慨，多模态强 |
+| Google Gemini AI Studio | `https://aistudio.google.com` | Gemini 2.5 Flash 免费用 | 免费额度慷慨，多模态强 |
 | GitHub Models | `https://github.com/marketplace/models` | 用 GitHub 账号 Token 免费用 | 无需绑卡 |
 | OpenRouter | `https://openrouter.ai` | 28+ 免费模型（搜索 `free`） | 一个 Key 调用全网模型 |
 | NVIDIA NIM | `https://build.nvidia.com` | 无额度限制，100+ 模型 | 免信用卡 |
@@ -155,9 +150,8 @@ print(resp.choices[0].message.content)
 
 1. **一个站点一个条目**，提供名称、地址、免费额度、覆盖模型。
 2. 提交时注明你的**核验日期**。
-3. 公益中转站请标注风险等级，避免误导。
 
-提交方式：Fork → 修改 `README.md` → 提交 Pull Request，或直接提 Issue。
+提交方式：直接提 Issue。
 
 ---
 
