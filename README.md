@@ -3,8 +3,8 @@
 > 一份持续维护的「免费 / 公益 AI 大模型 API 中转站与免费额度平台」清单。
 > 收录社区公益中转站、官方免费额度平台，以及可自建中转站的开源工具。
 
-[![License](https://img.shields.io/github/license/free-newapi/free-newapi)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/free-newapi/free-newapi?style=social)](https://github.com/free-newapi/free-newapi)
+[![License](https://img.shields.io/github/license/kirito8/free-newapi)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/kirito8/free-newapi?style=social)](https://github.com/kirito8/free-newapi)
 
 ---
 
