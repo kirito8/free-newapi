@@ -22,7 +22,7 @@
 ## 目录
 
 - [一、公益中转站](#一公益中转站)
-- [二、官方免费额度平台（最稳定）](#二官方免费额度平台最稳定)
+- [二、官方免费额度平台](#二官方免费额度平台)
 - [三、开源聚合 / 自建中转工具](#三开源聚合--自建中转工具)
 - [四、快速接入（OpenAI 兼容格式）](#四快速接入openai-兼容格式)
 - [五、使用建议与避坑](#五使用建议与避坑)
@@ -35,7 +35,7 @@
 
 | 名称 | 地址 | 免费额度 | 覆盖模型 | 备注 |
 | --- | --- | --- | --- | --- |
-| Any Router | `https://anyrouter.top/register?aff=pG9m` | 完全免费，新用户注册赠 $100，签到送 $25 | 10+ 模型（主要为Claude） | Linux Do信任等级需≥2方可注册 |
+| Any Router | https://anyrouter.top/register?aff=pG9m | 完全免费，新用户注册赠 $100，签到送 $25 | 10+ 模型（主要为Claude） | Linux Do信任等级需≥2方可注册 |
 | Agent Router | `https://agentrouter.org/register?aff=jnrM` | 完全免费，新用户注册赠 $100，签到送 $25 | Claude / GPT / Glm / Deepseek | github注册满5年可注册 |
 | 维云模型开放平台 | `https://vsllm.cc/i/z2IN` | 每日任务获取免费额度 | Claude / GPT / Glm / Deepseek 等69个模型 | 注册无限制 |
 
