@@ -38,6 +38,8 @@
 | Any Router | https://anyrouter.top/register?aff=pG9m | 完全免费，新用户注册赠 $100，签到送 $25 | 10+ 模型（主要为Claude） | Linux Do信任等级需≥2方可注册 |
 | Agent Router | https://agentrouter.org/register?aff=jnrM | 完全免费，新用户注册赠 $100，签到送 $25 | Claude / GPT / Glm / Deepseek | github注册满5年可注册 |
 | 维云模型开放平台 | https://vsllm.cc/i/z2IN | 每日任务获取免费额度 | Claude / GPT / Glm / Deepseek 等69个模型 | 注册无限制 |
+| CM-API-公益站 | https://api.chengmo.cc.cd/sign-up?aff=lz0Q | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek 等46个模型 | 注册无限制 |
+| ZeroCat | https://zero.cat/sign-up?aff=esyf | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek / xAI / Gemini 等40个模型 |  |
 | Huan API | https://ai.huan666.de/sign-up?aff=npLD | 每日签到获取免费额度 | Claude / XAI / MOONSHOT / Deepseek 等17个模型 |  |
 | 可萌中转站 | https://api456.me/register?aff=76S3 | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek / Gemini / qwen 等29个模型 | 注册无限制 |
 | Token能量站 | https://factory.pub/sign-up?aff=6oZK | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek 等20个模型 | 注册无限制 |
@@ -47,9 +49,7 @@
 | Pomelo | https://api.67.si/sign-up?aff=zpBO | 每日签到获取免费额度 | xAI / GPT / Glm / Deepseek 等17个模型 |  |
 | BER分公益站 | https://ai.berf1.cn/sign-up?aff=RQvt | 每日签到获取免费额度 | Glm / Deepseek 等4个模型 |  |
 | hkai | https://share.hkai25.top/sign-up?aff=0qe8 | 每日签到获取免费额度 | xAI / minimax / Glm / Deepseek 等10个模型 |  |
-| CM-API-公益站 | https://api.chengmo.cc.cd/sign-up?aff=lz0Q | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek 等46个模型 | 注册无限制 |
 | 糯喵喵のAI驿站 | https://ai.yangwj.me/sign-up?aff=gs6u | 每日签到获取免费额度 | xAI / GPT / Glm / Deepseek 等47个模型 |  |
-| ZeroCat | https://zero.cat/sign-up?aff=esyf | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek / xAI / Gemini 等40个模型 |  |
 
 
 ---
