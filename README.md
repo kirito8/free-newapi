@@ -51,6 +51,7 @@
 | hkai | https://share.hkai25.top/sign-up?aff=0qe8 | 每日签到获取免费额度 | xAI / minimax / Glm / Deepseek 等10个模型 |  |
 | 糯喵喵のAI驿站 | https://ai.yangwj.me/sign-up?aff=gs6u | 每日签到获取免费额度 | xAI / GPT / Glm / Deepseek 等47个模型 |  |
 | onomeo | https://onomeo.com/?ref=AC-U4P69Q | 每日签到领小额积分：第 1 天 20,000，连续签到逐日增加，第 7 天起每天 50,000，断签从头算；积分只用于 Claude、GPT 等 12 个大模型，35 个免费模型不花积分；注册不用绑卡；付费可选（每月 $5 得 3,000,000 积分，可随时取消），不付费也能用 | 一个 OpenAI 格式密钥可调 47 个模型，如 DeepSeek / GLM / Gemini / Qwen / Nemotron 等 | 个人小站，限制严格：每个密钥每分钟 12 次，每个账号每 5 小时 60 次（长消息按长度折成几次），全站所有账号每 5 小时共用 450 次；12 个大模型每个未付费账号每天最多用 50,000 积分；多数模型走其他平台的免费额度，47 个模型里 31 个的上游可能拿提示词训练（每个模型页有注明）。公测中，不保证所有功能都能正常使用，正在大量收集用户反馈，欢迎提交 |
+| DSH API | https://api.dshapi.icu/r/T8KiaeGU | 按量计费（无赠额），国模分组 0.08x（官网价 8%） | DeepSeek V4 / V4.1 / Pro、GLM-5.2 / 5.3 / 5.3-Flash、Kimi K2.8 / K3、MiniMax M3、混元 3 / 4 | 同一个 base URL 同时支持 OpenAI 与 Anthropic，Claude Code / Codex 不改代码可接；QQ 邮箱注册，支付宝/微信充值 |
 
 
 ---
@@ -81,7 +82,6 @@
 | GitHub Models | `https://github.com/marketplace/models` | 用 GitHub 账号 Token 免费用 | 无需绑卡 |
 | OpenRouter | `https://openrouter.ai` | 28+ 免费模型（搜索 `free`） | 一个 Key 调用全网模型 |
 | NVIDIA NIM | `https://build.nvidia.com` | 无额度限制，100+ 模型 | 免信用卡 |
-| DSH API | https://api.dshapi.icu/r/T8KiaeGU | 按量计费（无赠额），国模分组 0.08x（官网价 8%） | DeepSeek V4 / V4.1 / Pro、GLM-5.2 / 5.3 / 5.3-Flash、Kimi K2.8 / K3、MiniMax M3、混元 3 / 4 | 同一个 base URL 同时支持 OpenAI 与 Anthropic，Claude Code / Codex 不改代码可接；QQ 邮箱注册，支付宝/微信充值 |
 | Groq | `https://groq.com` | 免费 tier | 极低延迟 |
 | SambaNova | `https://sambanova.ai` | 新户赠 $5 | 额度充足 |
 | Cerebras | `https://cerebras.ai` | 免费 tier | 推理速度极快 |
