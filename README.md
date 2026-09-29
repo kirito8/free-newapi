@@ -81,6 +81,7 @@
 | GitHub Models | `https://github.com/marketplace/models` | 用 GitHub 账号 Token 免费用 | 无需绑卡 |
 | OpenRouter | `https://openrouter.ai` | 28+ 免费模型（搜索 `free`） | 一个 Key 调用全网模型 |
 | NVIDIA NIM | `https://build.nvidia.com` | 无额度限制，100+ 模型 | 免信用卡 |
+| DSH API | https://api.dshapi.icu/r/T8KiaeGU | 按量计费（无赠额），国模分组 0.08x（官网价 8%） | DeepSeek V4 / V4.1 / Pro、GLM-5.2 / 5.3 / 5.3-Flash、Kimi K2.8 / K3、MiniMax M3、混元 3 / 4 | 同一个 base URL 同时支持 OpenAI 与 Anthropic，Claude Code / Codex 不改代码可接；QQ 邮箱注册，支付宝/微信充值 |
 | Groq | `https://groq.com` | 免费 tier | 极低延迟 |
 | SambaNova | `https://sambanova.ai` | 新户赠 $5 | 额度充足 |
 | Cerebras | `https://cerebras.ai` | 免费 tier | 推理速度极快 |
