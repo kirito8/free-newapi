@@ -45,7 +45,7 @@
 | Token能量站 | https://factory.pub/sign-up?aff=6oZK | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek 等20个模型 | 目前只支持yaohuo和github注册 |
 | 快跑API | https://kuaipao.ai/register?aff=tOJg | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek 等100+个模型 |  |
 | PM-API | https://pmcat.top/#/register?aff=9b8a | 完全免费，无签到 | Claude / GPT / Glm / Deepseek 等75个模型 | 目前只支持Linux Do注册 |
-| Pomelo | https://api.67.si/sign-up?aff=zpBO | 每日签到获取免费额度 | xAI / GPT / Glm / Deepseek 等17个模型 |  |
+| Pomelo | https://api.67.si/sign-up?aff=zpBO | 每日签到获取免费额度 | xAI / GPT / Glm / Deepseek 等17个模型 | Linux Do信任等级需≥1方可注册 |
 | BER分公益站 | https://ai.berf1.cn/sign-up?aff=RQvt | 每日签到获取免费额度 | Glm / Deepseek 等4个模型 |  |
 | hkai | https://share.hkai25.top/sign-up?aff=0qe8 | 每日签到获取免费额度 | xAI / minimax / Glm / Deepseek 等10个模型 |  |
 | 糯喵喵のAI驿站 | https://ai.yangwj.me/sign-up?aff=gs6u | 每日签到获取免费额度 | xAI / GPT / Glm / Deepseek 等47个模型 |  |
