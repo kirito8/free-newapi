@@ -41,7 +41,7 @@
 | CM-API-公益站 | https://api.chengmo.cc.cd/sign-up?aff=lz0Q | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek 等46个模型 | 注册无限制 |
 | ZeroCat | https://zero.cat/sign-up?aff=esyf | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek / xAI / Gemini 等40个模型 |  |
 | Huan API | https://ai.huan666.de/sign-up?aff=npLD | 每日签到获取免费额度 | Claude / XAI / MOONSHOT / Deepseek 等17个模型 |  |
-| 可萌中转站 | https://api456.me/register?aff=76S3 | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek / Gemini / qwen 等29个模型 | 注册无限制 |
+| 可萌中转站 | https://api456.me/sign-up?aff=76S3 | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek / Gemini / qwen 等29个模型 | 注册无限制 |
 | Token能量站 | https://factory.pub/sign-up?aff=6oZK | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek 等20个模型 | 目前只支持yaohuo和github注册 |
 | 快跑API | https://kuaipao.ai/register?aff=tOJg | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek 等100+个模型 |  |
 | PM-API | https://pmcat.top/#/register?aff=9b8a | 完全免费，无签到 | Claude / GPT / Glm / Deepseek 等75个模型 | 目前只支持Linux Do注册 |
