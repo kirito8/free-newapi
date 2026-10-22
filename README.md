@@ -39,7 +39,6 @@
 | Agent Router | https://agentrouter.org/register?aff=jnrM | 完全免费，新用户注册赠 $100，签到送 $25 | GPT / Deepseek | github注册满5年或者Linux Do信任等级≥**0**方可注册 |
 | 维云模型开放平台 | https://vsllm.cc/i/jqYm | 每日任务获取免费额度 | Claude / GPT / Glm / Deepseek 等69个模型 | 注册无限制 |
 | CM-API-公益站 | https://api.chengmo.cc.cd/sign-up?aff=lz0Q | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek 等46个模型 | 注册无限制 |
-| ZeroCat | https://zero.cat/sign-up?aff=esyf | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek / xAI / Gemini 等40个模型 | 注册无限制 |
 | Huan API | https://ai.huan666.de/sign-up?aff=npLD | 每日签到获取免费额度 | Claude / XAI / MOONSHOT / Deepseek 等17个模型 |  |
 | 可萌中转站 | https://api456.me/sign-up?aff=76S3 | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek / Gemini / qwen 等29个模型 | 注册无限制 |
 | Factory.pub | https://factory.pub/sign-up?aff=6oZK | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek 等26个模型 | 目前只支持yaohuo和github注册 |
