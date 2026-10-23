@@ -39,7 +39,6 @@
 | Agent Router | https://agentrouter.org/register?aff=jnrM | 完全免费，新用户注册赠 $100，签到送 $25 | GPT / Deepseek | github注册满5年或者Linux Do信任等级≥**0**方可注册 |
 | 维云模型开放平台 | https://vsllm.cc/i/jqYm | 每日任务获取免费额度 | Claude / GPT / Glm / Deepseek 等69个模型 | 注册无限制 |
 | CM-API-公益站 | https://api.chengmo.cc.cd/sign-up?aff=lz0Q | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek 等46个模型 | 注册无限制 |
-| Huan API | https://ai.huan666.de/sign-up?aff=npLD | 每日签到获取免费额度 | Claude / XAI / MOONSHOT / Deepseek 等17个模型 |  |
 | 可萌中转站 | https://api456.me/sign-up?aff=76S3 | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek / Gemini / qwen 等29个模型 | 注册无限制 |
 | Factory.pub | https://factory.pub/sign-up?aff=6oZK | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek 等26个模型 | 目前只支持yaohuo和github注册 |
 | 快跑API | https://kuaipao.ai/register?aff=tOJg | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek 等100+个模型 | 注册无限制 |
@@ -48,6 +47,7 @@
 | 月城公益站 | https://52ccl.net/sign-up?aff=doOn | 每日签到获取免费额度 | xAI / GPT / Glm / Deepseek 等64个模型 | Linux Do信任等级需≥**1**方可注册 |
 | Pomelo | https://api.67.si/sign-up?aff=zpBO | 每日签到获取免费额度 | xAI / GPT / Glm / Deepseek 等17个模型 | Linux Do信任等级需≥**1**方可注册 |
 | hkai | https://share.hkai25.top/sign-up?aff=0qe8 | 每日签到获取免费额度 | deepseek-v4.1-flash | Linux Do信任等级需≥**1**方可注册 |
+| Huan API | https://ai.huan666.de/sign-up?aff=npLD | 每日签到获取免费额度 | Claude / XAI / MOONSHOT / Deepseek 等17个模型 | Linux Do信任等级需≥**2**方可注册 |
 | 42 API | https://api.42x.shop/sign-up?aff=hwB0 | 每日签到获取免费额度 | xAI / GPT / Glm / Deepseek 等113个模型 | Linux Do信任等级需≥**2**方可注册 |
 | 糯喵喵のAI驿站 | https://ai.yangwj.me/sign-up?aff=gs6u | 每日签到获取免费额度 | xAI / GPT / Glm / Deepseek 等47个模型 | Request failed with status code 530 |
 | onomeo | https://onomeo.com/?ref=AC-U4P69Q | 免费用量按次数给：17 个免费模型，每个账号每 5 小时 30 次，不用签到、没有站内积分；网页画图每个账号每天 10 张，免费；注册不用绑卡；付费可选（5 美元起充，余额以美元显示、不过期，按量用于 Claude、GPT 等大模型和 DeepSeek 编程专线），不付费也能用免费模型 | 一个 OpenAI 格式密钥可调 17 个免费模型（DeepSeek V4 Flash / GLM / Gemini Flash / Codestral 等），另有按量付费的大模型（Claude / GPT / Gemini Pro 等 13 个）和 DeepSeek 编程专线 | 个人小站，限制严格：每个密钥每分钟 12 次；每个账号每 5 小时 30 次（长消息按长度折成几次），付款后 35 天内放宽到 90 次；全站免费次数共用一份总量，人多时可能暂时用完；大模型和编程专线按量付费，仅向充过值的账号开放；经邀请链接注册并在两个不同日期使用后，邀请双方的免费次数提高到每 5 小时 45 次（7 天）；免费模型走各家模型服务商自己的免费档，很多上游可能拿提示词训练（每个模型页有注明）。公测中，不保证所有功能都能正常使用，正在大量收集用户反馈，欢迎提交 |
