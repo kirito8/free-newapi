@@ -37,7 +37,7 @@
 | --- | --- | --- | --- | --- |
 | 快跑API | https://kuaipao.ai/register?aff=tOJg | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek 等130+个模型 | 注册无限制 |
 | Any Router | https://anyrouter.top/register?aff=pG9m | 完全免费，新用户注册赠 $100，签到送 $25 | 10+ 模型（主要为Claude） | Linux Do信任等级需≥**2**方可注册 |
-| Agent Router | https://agentrouter.org/register?aff=jnrM | 完全免费，新用户注册赠 $100，签到送 $25 | GPT / Deepseek | github注册满5年或者Linux Do信任等级≥**0**方可注册 |
+| Agent Router | https://agentrouter.org/register?aff=jnrM | 完全免费，新用户注册赠 $100，签到送 $25 | GPT | github注册满5年或者Linux Do信任等级≥**0**方可注册 |
 | 维云模型开放平台 | https://vsllm.cc/i/jqYm | 每日任务获取免费额度 | Claude / GPT / Glm / Deepseek 等69个模型 | 注册无限制 |
 | CM-API-公益站 | https://api.chengmo.cc.cd/sign-up?aff=lz0Q | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek 等46个模型 | 注册无限制 |
 | 可萌中转站 | https://api456.me/sign-up?aff=76S3 | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek / Gemini / qwen 等29个模型 | 注册无限制 |
