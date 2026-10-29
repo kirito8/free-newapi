@@ -86,7 +86,6 @@
 | Cerebras | `https://cerebras.ai` | 按量付费 + 起始 $5 免费额度 | 推理速度极快 |
 | Cohere | `https://cohere.com` | Trial 1000 次/月 | 仅小模型 |
 | Cloudflare Workers AI | `https://developers.cloudflare.com` | 免费 tier，Workers Free 每天 10,000 Neurons | 边缘推理 |
-| HuggingFace | `https://huggingface.co` | 免费用户每月 $0.10 credits | 模型生态最全 |
 
 ---
 
