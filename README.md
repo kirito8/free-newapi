@@ -50,7 +50,6 @@
 | Huan API | https://ai.huan666.de/sign-up?aff=npLD | 每日签到获取免费额度 | Claude / XAI / MOONSHOT / Deepseek 等17个模型 | Linux Do信任等级需≥**2**方可注册 |
 | 42 API | https://api.42x.shop/sign-up?aff=hwB0 | 每日签到获取免费额度 | xAI / GPT / Glm / Deepseek 等113个模型 | Linux Do信任等级需≥**2**方可注册 |
 | 糯喵喵のAI驿站 | https://ai.yangwj.me/sign-up?aff=gs6u | 每日签到获取免费额度 | xAI / GPT / Glm / Deepseek 等47个模型 | Request failed with status code 530 |
-| onomeo | https://onomeo.com/?ref=AC-U4P69Q | 不用签到，没有站内积分，注册不用绑卡 | 17 个免费模型（DeepSeek V4 Flash / GLM / Gemini Flash / Codestral 等），另有按量付费的大模型（Claude / GPT / Gemini Pro 等 13 个） | 免费用量按次数给：17 个免费模型，每个账号每 5 小时 30 次，网页画图每个账号每天免费 10 张 |
 | BlockRun | https://blockrun.ai | 完全免费，无签到 | 英伟达 等7个模型 |  |
 | NovAI (AI API Pro) | https://aiapi-pro.com/register?utm_source=free_newapi | 注册送 $2（无需信用卡） | 121 个中国前沿模型（DeepSeek/Qwen/GLM/Kimi/Seedance/MiniMax/混元/CogVideo）聚合在一个 OpenAI 兼容端点；0% 平台加价；海外无需中国手机号/支付宝 | 5 个永久免费无限模型 |
 | COCO API | https://api.cocoapi.top/sign-up?aff=6Th2 | 注册送 ¥0.5，需充值10元解锁每日签到功能 | 已启用 122 个，Claude 全系 / GPT·Codex / Gemini / DeepSeek·Qwen·GLM 等国模 / Grok / Kimi，另有图像、视频、语音 | 10+ 个免费模型（0 倍率公益组） |
