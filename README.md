@@ -51,7 +51,7 @@
 | Huan API | https://ai.huan666.de/sign-up?aff=npLD | 每日签到获取免费额度 | Claude / XAI / MOONSHOT / Deepseek 等17个模型 | Linux Do信任等级需≥**2**方可注册 |
 | 42 API | https://api.42x.shop/sign-up?aff=hwB0 | 每日签到获取免费额度 | xAI / GPT / Glm / Deepseek 等113个模型 | Linux Do信任等级需≥**2**方可注册 |
 | BlockRun | https://blockrun.ai | 完全免费，无签到 | 英伟达 等7个模型 |  |
-| NovAI (AI API Pro) | https://aiapi-pro.com/register?utm_source=free_newapi | 注册送 $2（无需信用卡） | 121 个中国前沿模型（DeepSeek/Qwen/GLM/Kimi/Seedance/MiniMax/混元/CogVideo） | 5 个永久免费无限模型 |
+| NovAI (AI API Pro) | https://aiapi-pro.com/register?utm_source=free_newapi | 注册送 $2（无需信用卡） | 111 个中国前沿模型（DeepSeek/Qwen/GLM/Kimi/Seedance/MiniMax/混元/CogVideo） | 5 个永久免费模型 |
 | 糯喵喵のAI驿站 | https://ai.yangwj.me/sign-up?aff=gs6u | 每日签到获取免费额度 | xAI / GPT / Glm / Deepseek 等47个模型 | Request failed with status code 530 |
 
 
