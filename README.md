@@ -15,7 +15,7 @@
 2. **公益站 / 中转站存在风险**：社区维护的中转站可能存在「掺水」「跑路」「降级」风险，**请勿传入个人隐私、客户数据或敏感内容**，更不要绑定主账号、不要充值大额资金。
 3. **本清单仅供学习、研究与个人实验用途**，使用过程中请遵守各平台服务条款与当地法律法规。
 
-> 📅 本清单核验时间：**2026-11-07**。欢迎提 Issue / PR 更新失效信息。也欢迎提供未收录的公益站点~
+> 📅 本清单核验时间：**2026-11-08**。欢迎提 Issue / PR 更新失效信息。也欢迎提供未收录的公益站点~
 
 ---
 
@@ -35,11 +35,10 @@
 
 | 名称 | 地址 | 免费额度 | 覆盖模型 | 备注 |
 | --- | --- | --- | --- | --- |
-| 快跑API | https://kuaipao.ai/register?aff=tOJg | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek 等130+个模型 | 注册无限制 |
+| 快跑API | https://kuaipao.ai/register?aff=tOJg |  | Claude / GPT / Glm / Deepseek 等130+个模型 | 注册无限制 |
 | COCO API | https://api.cocoapi.top/sign-up?aff=6Th2 | 注册送 ¥0.5，每日签到获取免费额度 | 已启用 92 个，Claude 全系 / GPT·Codex / Gemini / DeepSeek·Qwen·GLM 等国模 / Grok / Kimi，另有图像、视频、语音 | 注册无限制 |
 | Agent Router | https://agentrouter.org/register?aff=jnrM | 完全免费，新用户注册赠 $100，签到送 $25 | GPT | github注册满5年或者Linux Do信任等级≥**0**方可注册 |
 | Any Router | https://anyrouter.top/register?aff=pG9m | 完全免费，新用户注册赠 $100，签到送 $25 | 10+ 模型（主要为Claude） | Linux Do信任等级需≥**2**方可注册 |
-| 维云模型开放平台 | https://vsllm.cc/i/jqYm | 每日任务获取免费额度 | Claude / GPT / Glm / Deepseek 等69个模型 | 注册无限制 |
 | CM-API-公益站 | https://api.chengmo.cc.cd/sign-up?aff=lz0Q | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek 等46个模型 | 注册无限制 |
 | 可萌中转站 | https://api456.me/sign-up?aff=76S3 | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek / Gemini / qwen 等29个模型 | 注册无限制 |
 | BER分公益站 | https://ai.berf1.cn/sign-up?aff=RQvt | 每日签到获取免费额度 | Glm / Deepseek 等4个模型 | 注册无限制 |
@@ -51,7 +50,7 @@
 | Huan API | https://ai.huan666.de/sign-up?aff=npLD | 每日签到获取免费额度 | Claude / XAI / MOONSHOT / Deepseek 等17个模型 | Linux Do信任等级需≥**2**方可注册 |
 | 42 API | https://api.42x.shop/sign-up?aff=hwB0 | 每日签到获取免费额度 | xAI / GPT / Glm / Deepseek 等113个模型 | Linux Do信任等级需≥**2**方可注册 |
 | BlockRun | https://blockrun.ai | 完全免费，无签到 | 英伟达 等7个模型 |  |
-| NovAI (AI API Pro) | https://aiapi-pro.com/register?utm_source=free_newapi | 注册送 $2（无需信用卡） | 111 个中国前沿模型（DeepSeek/Qwen/GLM/Kimi/Seedance/MiniMax/混元/CogVideo） | 5 个永久免费模型 |
+| NovAI (AI API Pro) | https://aiapi-pro.com/register?utm_source=free_newapi | 注册送 $2（无需信用卡） | 100+ 个中国前沿模型（DeepSeek/Qwen/GLM/Kimi/Seedance/MiniMax/混元/CogVideo） | 5 个永久免费模型（从未充值的账号：免费模型 每天 10 次、每分钟 5 次） |
 | 糯喵喵のAI驿站 | https://ai.yangwj.me/sign-up?aff=gs6u | 每日签到获取免费额度 | xAI / GPT / Glm / Deepseek 等47个模型 | Request failed with status code 530 |
 
 
