@@ -39,10 +39,9 @@
 | COCO API | https://api.cocoapi.top/sign-up?aff=6Th2 | 注册送 ¥0.5，每日签到获取免费额度 | 已启用 92 个，Claude 全系 / GPT·Codex / Gemini / DeepSeek·Qwen·GLM 等国模 / Grok / Kimi，另有图像、视频、语音 | 注册无限制 |
 | Agent Router | https://agentrouter.org/register?aff=jnrM | 完全免费，新用户注册赠 $100，签到送 $25 | GPT | github注册满5年或者Linux Do信任等级≥**0**方可注册 |
 | Any Router | https://anyrouter.top/register?aff=pG9m | 完全免费，新用户注册赠 $100，签到送 $25 | 10+ 模型（主要为Claude） | Linux Do信任等级需≥**2**方可注册 |
-| CM-API-公益站 | https://api.chengmo.cc.cd/sign-up?aff=lz0Q | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek 等46个模型 | 注册无限制 |
 | 可萌中转站 | https://api456.me/sign-up?aff=76S3 | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek / Gemini / qwen 等29个模型 | 注册无限制 |
+| CM-API-公益站 | https://api.chengmo.cc.cd/sign-up?aff=lz0Q | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek 等46个模型 | 注册无限制 |
 | BER分公益站 | https://ai.berf1.cn/sign-up?aff=RQvt | 每日签到获取免费额度 | Glm / Deepseek 等4个模型 | 注册无限制 |
-| Factory.pub | https://factory.pub/sign-up?aff=6oZK | 每日签到获取免费额度 | Claude / GPT / Glm / Deepseek 等26个模型 | 目前只支持yaohuo和github注册 |
 | PM-API | https://pmcat.top/#/register?aff=9b8a | 完全免费，无签到 | Claude / GPT / Glm / Deepseek 等75个模型 | Linux Do信任等级需≥**1**方可注册 |
 | 月城公益站 | https://52ccl.net/sign-up?aff=doOn | 每日签到获取免费额度 | xAI / GPT / Glm / Deepseek 等64个模型 | Linux Do信任等级需≥**1**方可注册 |
 | Pomelo | https://api.67.si/sign-up?aff=zpBO | 每日签到获取免费额度 | xAI / GPT / Glm / Deepseek 等17个模型 | Linux Do信任等级需≥**1**方可注册 |
