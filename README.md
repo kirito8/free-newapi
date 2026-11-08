@@ -34,7 +34,7 @@
 
 
 | 名称 | 地址 | 免费额度 | 覆盖模型 | 备注 |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | -- | --- |
 | 快跑API | https://kuaipao.ai/register?aff=tOJg |  | Claude / GPT / Glm / Deepseek 等130+个模型 | 注册无限制 |
 | COCO API | https://api.cocoapi.top/sign-up?aff=6Th2 | 注册送 ¥0.5，每日签到获取免费额度 | 已启用 92 个，Claude 全系 / GPT·Codex / Gemini / DeepSeek·Qwen·GLM 等国模 / Grok / Kimi，另有图像、视频、语音 | 注册无限制 |
 | Agent Router | https://agentrouter.org/register?aff=jnrM | 完全免费，新用户注册赠 $100，签到送 $25 | GPT | github注册满5年或者Linux Do信任等级≥**0**方可注册 |
