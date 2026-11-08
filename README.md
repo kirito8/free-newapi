@@ -37,9 +37,9 @@
 <thead><tr><th width="15%" nowrap>名称</th><th width="10%" nowrap>地址</th><th width="23%">免费额度</th><th width="29%">覆盖模型</th><th width="23%">备注</th></tr></thead>
 <tbody>
 <tr><td nowrap>快跑API</td><td nowrap><a href="https://kuaipao.ai/register?aff=tOJg">注册链接</a></td><td></td><td>Claude / GPT / Glm / Deepseek <br>等130+个模型</td><td>注册无限制</td></tr>
-<tr><td nowrap>COCO API</td><td nowrap><a href="https://api.cocoapi.top/sign-up?aff=6Th2">注册链接</a></td><td>注册送 ¥0.5，每日签到<br>获取免费额度</td><td>92 个模型，Claude 全系 / GPT / <br>Gemini / DeepSeek·Qwen·GLM <br>等国模 / Grok / Kimi，另有<br>图像、视频、语音</td><td>注册无限制</td></tr>
-<tr><td nowrap>Agent Router</td><td nowrap><a href="https://agentrouter.org/register?aff=jnrM">注册链接</a></td><td>完全免费，新用户注册<br>赠 $100，签到送 $25</td><td>GPT</td><td>github注册满5年<br>或者Linux Do信任<br>等级≥<strong>0</strong>方可注册</td></tr>
-<tr><td nowrap>Any Router</td><td nowrap><a href="https://anyrouter.top/register?aff=pG9m">注册链接</a></td><td>完全免费，新用户注册<br>赠 $100，签到送 $25</td><td>10+ 模型（主要为Claude）</td><td>Linux Do信任等级需≥<strong>2</strong>方可注册</td></tr>
+<tr><td nowrap>COCO API</td><td nowrap><a href="https://api.cocoapi.top/sign-up?aff=6Th2">注册链接</a></td><td>注册送 ¥0.5，每日签到获取免费额度</td><td>92 个模型，Claude 全系 / GPT / <br>Gemini / DeepSeek·Qwen·GLM <br>等国模 / Grok / Kimi，另有<br>图像、视频、语音</td><td>注册无限制</td></tr>
+<tr><td nowrap>Agent Router</td><td nowrap><a href="https://agentrouter.org/register?aff=jnrM">注册链接</a></td><td>完全免费，新用户注册赠 $100，签到送 $25</td><td>GPT</td><td>github注册满5年<br>或者Linux Do信任<br>等级≥<strong>0</strong>方可注册</td></tr>
+<tr><td nowrap>Any Router</td><td nowrap><a href="https://anyrouter.top/register?aff=pG9m">注册链接</a></td><td>完全免费，新用户注册赠 $100，签到送 $25</td><td>10+ 模型（主要为Claude）</td><td>Linux Do信任等级需≥<strong>2</strong>方可注册</td></tr>
 <tr><td nowrap>可萌中转站</td><td nowrap><a href="https://api456.me/sign-up?aff=76S3">注册链接</a></td><td>每日签到获取免费额度</td><td>Claude / GPT / Glm / Deepseek / <br>Gemini / qwen 等42个模型</td><td>注册无限制</td></tr>
 <tr><td nowrap>CM-API-公益站</td><td nowrap><a href="https://api.chengmo.cc.cd/sign-up?aff=lz0Q">注册链接</a></td><td>每日签到获取免费额度</td><td>Claude / GPT / Glm / Deepseek <br>等46个模型</td><td>注册无限制</td></tr>
 <tr><td nowrap>BER分公益站</td><td nowrap><a href="https://ai.berf1.cn/sign-up?aff=RQvt">注册链接</a></td><td>每日签到获取免费额度</td><td>Glm / Deepseek 等4个模型</td><td>注册无限制</td></tr>
