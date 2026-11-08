@@ -50,7 +50,7 @@
 <tr><td nowrap>Huan API</td><td nowrap><a href="https://ai.huan666.de/sign-up?aff=npLD">注册链接</a></td><td>每日签到获取免费额度</td><td>Claude / Glm / Deepseek 4个模型</td><td>Linux Do信任等级需≥<strong>2</strong>方可注册</td></tr>
 <tr><td nowrap>42 API</td><td nowrap><a href="https://api.42x.shop/sign-up?aff=hwB0">注册链接</a></td><td>每日签到获取免费额度</td><td>xAI / GPT / Glm / Deepseek 等103个模型</td><td>Linux Do信任等级需≥<strong>2</strong>方可注册</td></tr>
 <tr><td nowrap>BlockRun</td><td nowrap><a href="https://blockrun.ai">注册链接</a></td><td>完全免费，无签到</td><td>英伟达 等7个模型</td><td></td></tr>
-<tr><td nowrap>NovAI (AI API Pro)</td><td nowrap><a href="https://aiapi-pro.com/register?utm_source=free_newapi">注册链接</a></td><td>注册送 $2（无需信用卡）</td><td>100+ 个中国前沿模型（DeepSeek/&#8203;Qwen/&#8203;GLM/&#8203;Kimi/&#8203;Seedance/&#8203;MiniMax/&#8203;混元/&#8203;CogVideo）</td><td>5 个永久免费模型（从未充值的账号：免费模型每天 10 次、每分钟 5 次）</td></tr>
+<tr><td nowrap>NovAI (AI API Pro)</td><td nowrap><a href="https://aiapi-pro.com/register?utm_source=free_newapi">注册链接</a></td><td>注册送 $2（无需信用卡）</td><td>100+ 个模型（DeepSeek/&#8203;Qwen/&#8203;GLM/&#8203;Kimi/&#8203;Seedance/&#8203;MiniMax/&#8203;混元/&#8203;CogVideo）</td><td>5 个永久免费模型（从未充值的账号：免费模型每天 10 次、每分钟 5 次）</td></tr>
 <tr><td nowrap>糯喵喵のAI驿站</td><td nowrap><a href="https://ai.yangwj.me/sign-up?aff=gs6u">注册链接</a></td><td>每日签到获取免费额度</td><td>xAI / GPT / Glm / Deepseek 等47个模型</td><td>Request failed with status code 530</td></tr>
 </tbody>
 </table>
