@@ -34,7 +34,7 @@
 
 
 <table>
-<thead><tr><th width="15%" nowrap>名称</th><th width="10%" nowrap>地址</th><th width="23%">免费额度</th><th width="29%">覆盖模型</th><th width="23%">备注</th></tr></thead>
+<thead><tr><th width="15%" nowrap>名称</th><th width="10%" nowrap>地址</th><th width="23%">免费额度</th><th width="25%">覆盖模型</th><th width="27%">备注</th></tr></thead>
 <tbody>
 <tr><td nowrap>快跑API</td><td nowrap><a href="https://kuaipao.ai/register?aff=tOJg">注册链接</a></td><td></td><td>Claude / GPT / Glm / Deepseek 等130+个模型</td><td>注册无限制</td></tr>
 <tr><td nowrap>COCO API</td><td nowrap><a href="https://api.cocoapi.top/sign-up?aff=6Th2">注册链接</a></td><td>注册送 ¥0.5，每日签到获取免费额度</td><td>92 个模型，Claude 全系 / GPT / Gemini / DeepSeek·Qwen·GLM 等国模 / Grok / Kimi，另有图像、视频、语音</td><td>注册无限制</td></tr>
