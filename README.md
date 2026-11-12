@@ -66,12 +66,12 @@
 | 平台 | 地址 | 免费额度 | 亮点 |
 | --- | --- | --- | --- |
 | 智谱 BigModel | `https://open.bigmodel.cn` | 免费：GLM-4.7-Flash（200K 上下文）、GLM-4.5-Flash、GLM-4-Flash-250414；另有免费视觉 GLM-4.6V-Flash/GLM-4V-Flash、CogView-3-Flash | 中文代码能力强 |
-| 美团 LongCat | `https://longcat.chat/platform` | LongCat-2.5-Preview/LongCat-2.0（1M 上下文、128K 输出） | Token 资源包 + 活动赠送额度 |
+| 美团 LongCat | `https://longcat.chat/platform` | LongCat-2.5（1M 上下文、256K 输出） | Token 资源包 + 活动赠送额度 |
 | 硅基流动 SiliconFlow | `https://cloud.siliconflow.cn` | 部分模型永久免费 + 新户赠额 | 国内直连海外模型，OpenAI 兼容 |
-| 阿里云百炼 | `https://bailian.aliyun.com` | 新人额度按模型发放，通常每个模型 100 万 Token，有效期 90 天 | 千问全系，长上下文 |
+| 阿里云百炼 | `https://bailian.aliyun.com` | 新人额度按模型发放，通常每个模型 100 万 Token，有效期 90 天 | 千问全系，长上下文，需先实名认证 |
 | 百度千帆 | `https://qianfan.cloud.baidu.com` | 注册+实名认证送 20 元代金券，全平台无门槛，有效期 1 个月 | 多模态覆盖 |
 | 火山方舟（豆包） | 火山引擎 | Managed Agents 首开赠 30 小时运行时 + 500 次 web_search（有效期 2 年）；联网资源每月 2 万次免费 | 推理成本极低 |
-| 商汤日日新 | `https://platform.sensenova.cn` | 公测期通用积分池与 Flash-Lite 专属池各提供 6 万积分/滚动 5 小时 和 60 万积分/滚动周 | OpenAI 兼容，支持 20 个 Key |
+| 商汤日日新 | `https://platform.sensenova.cn` | 公测期通用积分池与 Flash-Lite 专属池各提供 12 万积分/滚动 5 小时 和 120 万积分/滚动周 | OpenAI 兼容，支持 20 个 Key |
 | 魔搭社区 ModelScope | `https://modelscope.cn` | 魔棒（Magicube）兑换：轻量 ~0.5/次、标准 ~1/次、旗舰 ~2/次；并发按负载动态限流 | 3000+ 模型，适合横评。需绑定阿里云账号并实名 |
 
 ### 海外平台
@@ -79,11 +79,11 @@
 | 平台 | 地址 | 免费额度 | 亮点 |
 | --- | --- | --- | --- |
 | Google Gemini AI Studio | `https://aistudio.google.com` | Gemini 3.8 Flash 免费用 | 免费额度慷慨，多模态强 |
-| OpenRouter | `https://openrouter.ai` | 20+ 免费模型（搜索 `free`） | 免费模型另有每日请求上限（未充值较低，累计充值后提高） |
+| OpenRouter | `https://openrouter.ai` | 10+ 免费模型（搜索 `free`） | 免费模型另有每日请求上限（未充值较低，累计充值后提高） |
 | NVIDIA NIM | `https://build.nvidia.com` | 无额度限制，100+ 模型 | 模型免费可原型调用，但免费层是速率限制（多数模型约 40 RPM），无按 token 计费、无需信用卡 |
 | Groq | `https://groq.com` | 免费 tier | 极低延迟 |
 | SambaNova | `https://sambanova.ai` | 免费 tier | 额度很小：20 RPM / 20 RPD / 20 万 TPD 每模型 |
-| Cerebras | `https://cerebras.ai` | 按量付费 + 起始 $5 免费额度 | 推理速度极快 |
+| Cerebras | `https://cerebras.ai` | 按量付费 + $5 促销额度，需绑卡，激活后 30 天有效 | 推理速度极快 |
 | Cohere | `https://cohere.com` | Trial 1000 次/月 | 仅小模型 |
 | Cloudflare Workers AI | `https://developers.cloudflare.com` | 免费 tier，Workers Free 每天 10,000 Neurons | 边缘推理 |
 
