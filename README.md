@@ -73,7 +73,7 @@
 | 火山方舟（豆包） | 火山引擎 | Managed Agents 首开赠 30 小时运行时 + 500 次 web_search（有效期 2 年）；联网资源每月 2 万次免费 | 推理成本极低 |
 | 商汤日日新 | `https://platform.sensenova.cn` | 公测期通用积分池与 Flash-Lite 专属池各提供 12 万积分/滚动 5 小时 和 120 万积分/滚动周 | OpenAI 兼容，支持 20 个 Key |
 | 魔搭社区 ModelScope | `https://modelscope.cn` | 魔棒（Magicube）兑换：轻量 ~0.5/次、标准 ~1/次、旗舰 ~2/次；并发按负载动态限流 | 3000+ 模型，适合横评。需绑定阿里云账号并实名 |
-| AMD Radeon Cloud | `https://developer.amd.com.cn/radeon/tokenfactory` | 每天 1 积分（注册 14 天内每天 5 积分），北京时间 0 点重置；免费：DeepSeek-V4.1-Flash、DeepSeek-V4-Flash、GLM-5.3-Flash、MiMo-V2.6-Flash、Qwen3.8-27B、Gemma-4-31B-IT、MiniCPM 系列等 12 个 | AMD 官方，OpenAI 兼容 |
+| AMD Radeon Cloud | `https://developer.amd.com.cn/login?source=bjOVsdlfc` | 每天 1 积分（注册 14 天内每天 5 积分），北京时间 0 点重置；免费：DeepSeek-V4.1-Flash、DeepSeek-V4-Flash、GLM-5.3-Flash、MiMo-V2.6-Flash、Qwen3.8-27B、Gemma-4-31B-IT、MiniCPM 系列等 12 个 | AMD 官方，OpenAI 兼容 |
 
 ### 海外平台
 
