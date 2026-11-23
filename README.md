@@ -37,7 +37,7 @@
 <thead><tr><th width="14%" nowrap>名称</th><th width="9%" nowrap>地址</th><th width="25%">免费额度</th><th width="24%">覆盖模型</th><th width="28%">备注</th></tr></thead>
 <tbody>
 <tr><td nowrap>快跑API</td><td nowrap><a href="https://kuaipao.ai/register?aff=tOJg">注册链接</a></td><td></td><td>Claude / GPT / Glm / Deepseek 等130+个模型</td><td>注册无限制</td></tr>
-<tr><td nowrap>COCO API</td><td nowrap><a href="https://api.cocoapi.top/sign-up?aff=6Th2">注册链接</a></td><td>注册送 ¥0.5，每日签到获取免费额度</td><td>432 个模型，Claude 全系 / GPT / Gemini / DeepSeek·Qwen·GLM 等国模 / Grok / Kimi，另有图像、视频、语音</td><td>注册无限制</td></tr>
+<tr><td nowrap>COCO API</td><td nowrap><a href="https://api.cocoapi.top/sign-up?aff=6Th2">注册链接</a></td><td>注册送 ¥0.5，每日签到获取免费额度</td><td>430 个模型，Claude 全系 / GPT / Gemini / DeepSeek·Qwen·GLM 等国模 / Grok / Kimi，另有图像、视频、语音</td><td>注册无限制</td></tr>
 <tr><td nowrap>Any Router</td><td nowrap><a href="https://anyrouter.top/register?aff=pG9m">注册链接</a></td><td>完全免费，新用户注册赠 $100，签到送 $25</td><td>10+ 模型（主要为Claude）</td><td>Linux Do信任等级需≥<strong>2</strong>方可注册</td></tr>
 <tr><td nowrap>可萌中转站</td><td nowrap><a href="https://api456.me/sign-up?aff=76S3">注册链接</a></td><td>每日签到获取免费额度</td><td>Claude / GPT / Glm / Deepseek / Gemini / qwen 等42个模型</td><td>注册无限制</td></tr>
 <tr><td nowrap>CM-API-公益站</td><td nowrap><a href="https://api.chengmo.cc.cd/sign-up?aff=lz0Q">注册链接</a></td><td>每日签到获取免费额度</td><td>Claude / GPT / Glm / Deepseek 等35个模型</td><td>注册无限制</td></tr>
@@ -45,10 +45,10 @@
 <tr><td nowrap>PM-API</td><td nowrap><a href="https://pmcat.top/#/register?aff=9b8a">注册链接</a></td><td>完全免费，无签到</td><td>Claude / GPT / Glm / Deepseek 等75个模型</td><td>Linux Do信任等级需≥<strong>1</strong>方可注册</td></tr>
 <tr><td nowrap>月城公益站</td><td nowrap><a href="https://52ccl.net/sign-up?aff=doOn">注册链接</a></td><td>每日签到获取免费额度</td><td>xAI / GPT / Glm / Deepseek 等66个模型</td><td>Linux Do信任等级需≥<strong>1</strong>方可注册</td></tr>
 <tr><td nowrap>Pomelo</td><td nowrap><a href="https://api.67.si/sign-up?aff=zpBO">注册链接</a></td><td>每日签到获取免费额度</td><td>xAI / GPT / qwen 等13个模型</td><td>Linux Do信任等级需≥<strong>1</strong>方可注册</td></tr>
-<tr><td nowrap>hkai</td><td nowrap><a href="https://share.hkai25.top/sign-up?aff=0qe8">注册链接</a></td><td>每日签到获取免费额度</td><td>deepseek-v4.1-flash</td><td>Linux Do信任等级需≥<strong>1</strong>方可注册</td></tr>
+<tr><td nowrap>hkai</td><td nowrap><a href="https://share.hkai25.top/sign-up?aff=0qe8">注册链接</a></td><td>每日签到获取免费额度</td><td>deepseek-v4.1-flash 2个模型</td><td>Linux Do信任等级需≥<strong>1</strong>方可注册</td></tr>
 <tr><td nowrap>Huan API</td><td nowrap><a href="https://ai.huan666.de/sign-up?aff=npLD">注册链接</a></td><td>每日签到获取免费额度</td><td>Claude / Glm / Deepseek 4个模型</td><td>Linux Do信任等级需≥<strong>2</strong>方可注册</td></tr>
 <tr><td nowrap>42 API</td><td nowrap><a href="https://api.42x.shop/sign-up?aff=hwB0">注册链接</a></td><td>每日签到获取免费额度</td><td>xAI / GPT / Glm / Deepseek 等157个模型</td><td>Linux Do信任等级需≥<strong>2</strong>方可注册</td></tr>
-<tr><td nowrap>BlockRun</td><td nowrap><a href="https://blockrun.ai">注册链接</a></td><td>完全免费，无签到</td><td>英伟达 等7个模型</td><td></td></tr>
+<tr><td nowrap>BlockRun</td><td nowrap><a href="https://blockrun.ai">注册链接</a></td><td>完全免费，无签到</td><td>英伟达 等9个免费模型</td><td></td></tr>
 <tr><td nowrap>NovAI (AI API Pro)</td><td nowrap><a href="https://aiapi-pro.com/register?utm_source=free_newapi">注册链接</a></td><td>注册送 $2（无需信用卡）</td><td>100+ 个模型（DeepSeek/&#8203;Qwen/&#8203;GLM/&#8203;Kimi/&#8203;Seedance/&#8203;MiniMax/&#8203;混元/&#8203;CogVideo）</td><td>5 个永久免费模型（从未充值的账号：免费模型每天 10 次、每分钟 5 次）</td></tr>
 <tr><td nowrap>TeapotRouter</td><td nowrap><a href="https://teapotrouter.com/register">注册链接</a></td><td>注册一次性送 40,000 站内积分</td><td>Claude 全系 / GPT 全系</td><td><strong>付费中转站<strong>，无每日签到、无长期免费模型</td></tr>
 <tr><td nowrap>YisamaAPI</td><td nowrap><a href="https://api.yisama.asia">注册链接</a></td><td>每日全站共享的免费 Token 额度</td><td> GPT、Claude、Gemini、DeepSeek、Qwen、Kimi、GLM、MiniMax 等模型</td><td>共享额度先到先得，当日用完即止，并非每位用户独享固定日额度，也不是全站所有模型永久免费</td></tr>
