@@ -51,6 +51,7 @@
 <tr><td nowrap>BlockRun</td><td nowrap><a href="https://blockrun.ai">注册链接</a></td><td>完全免费，无签到</td><td>英伟达 等7个模型</td><td></td></tr>
 <tr><td nowrap>NovAI (AI API Pro)</td><td nowrap><a href="https://aiapi-pro.com/register?utm_source=free_newapi">注册链接</a></td><td>注册送 $2（无需信用卡）</td><td>100+ 个模型（DeepSeek/&#8203;Qwen/&#8203;GLM/&#8203;Kimi/&#8203;Seedance/&#8203;MiniMax/&#8203;混元/&#8203;CogVideo）</td><td>5 个永久免费模型（从未充值的账号：免费模型每天 10 次、每分钟 5 次）</td></tr>
 <tr><td nowrap>TeapotRouter</td><td nowrap><a href="https://teapotrouter.com/register">注册链接</a></td><td>注册一次性送 40,000 站内积分</td><td>Claude 全系 / GPT 全系</td><td><strong>付费中转站<strong>，无每日签到、无长期免费模型</td></tr>
+<tr><td nowrap>YisamaAPI</td><td nowrap><a href="https://api.yisama.asia">注册链接</a></td><td>每日全站共享的免费 Token 额度</td><td> GPT、Claude、Gemini、DeepSeek、Qwen、Kimi、GLM、MiniMax 等模型</td><td>共享额度先到先得，当日用完即止，并非每位用户独享固定日额度，也不是全站所有模型永久免费</td></tr>
 <tr><td nowrap>糯喵喵のAI驿站</td><td nowrap><a href="https://ai.yangwj.me/sign-up?aff=gs6u">注册链接</a></td><td>每日签到获取免费额度</td><td>xAI / GPT / Glm / Deepseek 等47个模型</td><td>疑似跑路Request failed with status code 530</td></tr>
 </tbody>
 </table>
