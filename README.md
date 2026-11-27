@@ -15,7 +15,7 @@
 2. **公益站 / 中转站存在风险**：社区维护的中转站可能存在「掺水」「跑路」「降级」风险，**请勿传入个人隐私、客户数据或敏感内容**，更不要绑定主账号、不要充值大额资金。
 3. **本清单仅供学习、研究与个人实验用途**，使用过程中请遵守各平台服务条款与当地法律法规。
 
-> 📅 本清单核验时间：**2026-11-26**。欢迎提 Issue 更新失效信息。也欢迎提供未收录的公益站点~
+> 📅 本清单核验时间：**2026-11-27**。欢迎提 Issue 更新失效信息。也欢迎提供未收录的公益站点~
 
 ---
 
@@ -37,11 +37,11 @@
 <thead><tr><th width="14%" nowrap>名称</th><th width="9%" nowrap>地址</th><th width="25%">免费额度</th><th width="24%">覆盖模型</th><th width="28%">备注</th></tr></thead>
 <tbody>
 <tr><td nowrap>快跑API</td><td nowrap><a href="https://kuaipao.ai/register?aff=tOJg">注册链接</a></td><td></td><td>Claude / GPT / Glm / Deepseek 等130+个模型</td><td>注册无限制</td></tr>
-<tr><td nowrap>COCO API</td><td nowrap><a href="https://api.cocoapi.top/sign-up?aff=6Th2">注册链接</a></td><td>注册送 ¥0.5，每日签到获取免费额度</td><td>375 个模型，Claude 全系 / GPT / Gemini / DeepSeek·Qwen·GLM 等国模 / Grok / Kimi，另有图像、视频、语音</td><td>注册无限制</td></tr>
+<tr><td nowrap>COCO API</td><td nowrap><a href="https://api.cocoapi.top/sign-up?aff=6Th2">注册链接</a></td><td>注册送 ¥0.5，每日签到获取免费额度</td><td>360 个模型，Claude 全系 / GPT / Gemini / DeepSeek·Qwen·GLM 等国模 / Grok / Kimi，另有图像、视频、语音</td><td>注册无限制</td></tr>
 <tr><td nowrap>Any Router</td><td nowrap><a href="https://anyrouter.top/register?aff=pG9m">注册链接</a></td><td>完全免费，新用户注册赠 $100，签到送 $25</td><td>10+ 模型（主要为Claude）</td><td>Linux Do信任等级需≥<strong>2</strong>方可注册</td></tr>
 <tr><td nowrap>可萌中转站</td><td nowrap><a href="https://api456.me/sign-up?aff=76S3">注册链接</a></td><td>每日签到获取免费额度</td><td>Claude / GPT / Glm / Deepseek / Gemini / qwen 等42个模型</td><td>注册无限制</td></tr>
-<tr><td nowrap>CM-API-公益站</td><td nowrap><a href="https://api.chengmo.cc.cd/sign-up?aff=lz0Q">注册链接</a></td><td>每日签到获取免费额度</td><td>Claude / GPT / Glm / Deepseek 等140个模型</td><td>注册无限制</td></tr>
-<tr><td nowrap>BER分公益站</td><td nowrap><a href="https://ai.berf1.cn/sign-up?aff=RQvt">注册链接</a></td><td>每日签到获取免费额度</td><td>GPT / Deepseek 等10个模型</td><td>注册无限制</td></tr>
+<tr><td nowrap>CM-API-公益站</td><td nowrap><a href="https://api.chengmo.cc.cd/sign-up?aff=lz0Q">注册链接</a></td><td>每日签到获取免费额度</td><td>Claude / GPT / Glm / Deepseek 等142个模型</td><td>注册无限制</td></tr>
+<tr><td nowrap>BER分公益站</td><td nowrap><a href="https://ai.berf1.cn/sign-up?aff=RQvt">注册链接</a></td><td>每日签到获取免费额度</td><td>GPT / Deepseek 等8个模型</td><td>注册无限制</td></tr>
 <tr><td nowrap>PM-API</td><td nowrap><a href="https://pmcat.top/#/register?aff=9b8a">注册链接</a></td><td>完全免费，无签到</td><td>Claude / GPT / Glm / Deepseek 等75个模型</td><td>Linux Do信任等级需≥<strong>1</strong>方可注册</td></tr>
 <tr><td nowrap>月城公益站</td><td nowrap><a href="https://52ccl.net/sign-up?aff=doOn">注册链接</a></td><td>每日签到获取免费额度</td><td>xAI / GPT / Glm / Deepseek 等66个模型</td><td>Linux Do信任等级需≥<strong>1</strong>方可注册</td></tr>
 <tr><td nowrap>Pomelo</td><td nowrap><a href="https://api.67.si/sign-up?aff=zpBO">注册链接</a></td><td>每日签到获取免费额度</td><td>xAI / GPT / qwen 等13个模型</td><td>Linux Do信任等级需≥<strong>1</strong>方可注册</td></tr>
